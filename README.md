@@ -1,7 +1,7 @@
 
 
 
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif](https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9)" width="300" />
     <h1 align="center">Hi 👋, I'm Valentina</h1>
     <h3 align="center">I am a full stack web developer from Argentina with a profile oriented towards the frontend development and with basic knowledge in UX/UI Design. I consider myself very creative and persevering, with a great willingness to learn and carry out new tasks and projects. Totally entrenched in teamwork and agile SCRUM methodologies.
 </h3>
