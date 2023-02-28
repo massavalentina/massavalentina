@@ -1,10 +1,8 @@
 
 
 <div>
-
     <h1 align="center">Hi 👋, I'm Valentina</h1>
-    <h3 align="center">I am a full stack web developer from Argentina with a profile oriented towards the frontend development and with basic knowledge in UX/UI Design. I consider myself very creative and persevering, with a great willingness to learn and carry out new tasks and projects. Totally entrenched in teamwork and agile SCRUM methodologies.
-</h3>
+    <h3 align="center">I am a full stack web developer from Argentina with a profile oriented towards the frontend development and with basic knowledge in UX/UI Design. I consider myself very creative and persevering, with a great willingness to learn and carry out new tasks and projects. Totally entrenched in teamwork and agile SCRUM methodologies.</h3>
 </div>
 
 
