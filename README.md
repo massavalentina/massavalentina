@@ -8,20 +8,7 @@
 </div>
 
 
-<div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
-    </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
-</div>
+
 
 ---
 
@@ -29,7 +16,7 @@
 
 - 📝 I'm currently studying at the university. In my free time I continue my learning in the world of development and do sports activities to give myself a break
 
-- 💬 Ask me about **React.JS**
+- 💬 Ask me about **JavaScript, React.JS and CSS**
 
 - 📫 How to reach me **valecacciavi@gmail.com**
 
@@ -50,7 +37,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         
       </div>
-</div>
+
 
 ---
 
@@ -58,7 +45,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=massavalentina&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=massavalentinas&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massavalentina&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 **
