@@ -7,3 +7,6 @@ I have a solid background in technologies such as JavaScript, React, Redux, HTML
 I am developing new projects for my portfolio, learning Material UI in an advanced way and taking my first steps in the Java language in search of my complementary knowledge.
 
 You can check my previous projects on my linkedin: https://www.linkedin.com/in/valentina-massa-b08469254/. Do not hesitate to contact me by private message or by writing to me at valecacciavi@gmail.com.
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
