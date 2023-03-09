@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me :
+### About Me :
 
 - 📝 I'm currently studying at the university. In my free time I continue my learning in the world of development and do sports activities to give myself a break
 
