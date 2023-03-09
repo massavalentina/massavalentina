@@ -30,10 +30,10 @@ Also, I'm studying at the university and doing sports activities to give my mind
 
 ### 📊 My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massavalentina&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massavalentina&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=massavalentina&theme=onedark)](https://git.io/streak-stats)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=massavalentina&theme=onedark)](https://git.io/streak-stats)
+
 
 
 
