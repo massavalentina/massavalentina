@@ -37,7 +37,6 @@ Also, I'm studying at the university and doing sports activities to give my mind
 
 
 
-**
 
 
 
