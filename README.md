@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Java, TypeScript and UX/UI Designer**
 
-- 📫 How to reach me e mail:**valecacciavi@gmail.com** or Linkedin : **https://www.linkedin.com/in/valentina-massa-b08469254/**
+- 📫 How to reach me e mail: **valecacciavi@gmail.com** or Linkedin : **https://www.linkedin.com/in/valentina-massa-b08469254/**
 
 
 
