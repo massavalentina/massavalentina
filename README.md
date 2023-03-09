@@ -17,7 +17,7 @@ Also, I'm studying at the university and doing sports activities to give my mind
 
 ### 
 
-- 📝 I’m currently learning **Java, TypeScript and UX/UI Designer**
+- 📝 I’m currently learning **Java, Material UI and UX/UI Designer**
 
 - 📫 How to reach me e mail: **valecacciavi@gmail.com** or Linkedin : **https://www.linkedin.com/in/valentina-massa-b08469254/**
 
