@@ -26,10 +26,7 @@
 <div align="left">
     <h3>Tools</h3>
     <div>
-     [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-       
-        </div>
-      
+   
        
         
       
