@@ -18,7 +18,7 @@ I'm currently creating new projects for my portfolio, studying at the college an
 
 - 📝 I’m currently learning **Next.js and Java**
 
-- 📫 How to reach me e mail: **valecacciavi@gmail.com** or Linkedin : **https://www.linkedin.com/in/valentina-massa-b08469254/**
+- 📫 How to reach me : **valecacciavi@gmail.com**, or Linkedin : **https://www.linkedin.com/in/valentina-massa-b08469254/**
 
 
 
