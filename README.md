@@ -6,8 +6,7 @@
 
 I have a solid knowledge in technologies such as JavaScript, React, Redux, HTML, CSS, Node.js, Express, MySQL and Sequelize. 
 
-I'm currently developing new projects for my portfolio, learning Material UI in an advanced way and taking my first steps in the Java language in search of my complementary knowledge.
-Also, I'm studying at the university and doing sports activities to give my mind a break.</h3>
+I'm currently developing new projects for my portfolio, studying at the university and doing sports activities to give my mind a break.</h3>
 </div>
 
 
