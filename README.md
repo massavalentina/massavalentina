@@ -6,7 +6,7 @@
 
 I have a solid knowledge in technologies such as JavaScript, React, Redux, HTML, CSS, Node.js, Express, MySQL and Sequelize. 
 
-I'm currently developing new projects for my portfolio, studying at the university and doing sports activities to give my mind a break.</h3>
+I'm currently creating new projects for my portfolio, studying at the college and doing sports activities in my free time</h3>
 </div>
 
 
