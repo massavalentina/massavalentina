@@ -3,9 +3,7 @@
 <div>
     <h1 align="center">Hi 👋, I'm Valentina</h1>
     <h3 align="center"> I am a full stack web developer with a profile oriented towards the front end and with basic knowledge in UX/UI Design. I consider myself as very creative and persevering person, with a great willingness to learn and carry out new tasks and projects. 
-    <h3 align="center">Totally entrenched with teamwork and agile SCRUM methodologies. </h3>
-
- <h3 align="center">I have a solid knowledge in technologies such as JavaScript, React, Redux, HTML, CSS, Node.js, Express, MySQL and Sequelize. 
+    <h3 align="center">Totally entrenched with teamwork and agile SCRUM methodologies. I have a solid knowledge in technologies such as JavaScript, React, Redux, HTML, CSS, Node.js, Express, MySQL and Sequelize. 
 
 I'm currently creating new projects for my portfolio and studying at the college</h3>
 </div>
