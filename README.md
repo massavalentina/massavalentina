@@ -11,20 +11,7 @@
 
 
 
----
 
-### 
-
-- 📝 I’m currently learning **Next.js and Java**
-
-- 📫 How to reach me : **valecacciavi@gmail.com**, or Linkedin : **https://www.linkedin.com/in/valentina-massa-b08469254/**
-
-
-
-
-
-
----
 
 ### 📊 My Stats :
 
