@@ -8,7 +8,7 @@
 🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -26,7 +26,6 @@
 
 
 ## By the way here are some of my statistics 🚀
-![massavalentina's github stats](https://github-readme-stats.vercel.app/api?username=massavalentina&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=massavalentina&theme=tokyonight" alt="mystreak"/>
 ![massavakentina's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massavalentina&theme=tokyonight&layout=compact)
 
