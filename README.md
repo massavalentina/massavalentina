@@ -26,7 +26,11 @@
 
 
 ## By the way here are some of my statistics 🚀
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=massavalentina&theme=tokyonight" alt="mystreak"/>
-![massavakentina's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massavalentina&theme=tokyonight&layout=compact)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=massavalentina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=massavalentina&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
